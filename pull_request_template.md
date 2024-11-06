@@ -1,4 +1,4 @@
-# GitHub Merge Request Template
+# GitHub Pull Request Template
 
 ## Developer Checklist
 - [ ] **Clear Description**: What is the change and why it was implemented.
